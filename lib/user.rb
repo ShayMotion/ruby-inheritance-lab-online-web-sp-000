@@ -33,3 +33,5 @@ steve.learn(some_more_knowledge)
 
  puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"	puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 puts "Joel just learned this important knowledge: '#{joel.knowledge.first}' from Avi"
+end
+end
